@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseo-jiy00n&count_bg=%23FFA900&title_bg=%23A5DA60&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **seo-jiy00n/seo-jiy00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
